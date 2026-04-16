@@ -1,0 +1,16 @@
+{
+  "hash": "59f4e6919bf58ab686208f3e0d534b0549b060de7f22cb940f6d7a2050b2963f",
+  "pick": {
+    "id": "60a0a167-7d05-41e6-9491-5a4c25516bca",
+    "team": "Yankees -1.5",
+    "displayTitle": null,
+    "sport": "MLB",
+    "betType": "spread",
+    "line": "-1.5",
+    "odds": "-260",
+    "createdAt": "2026-04-05T16:35:43.291Z",
+    "confidence": 7,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:13:55.405Z"
+}
