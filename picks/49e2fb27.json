@@ -1,0 +1,16 @@
+{
+  "hash": "49e2fb27d1b15f7c4bbb36c10a8c9ef7f0dc9f2c3a0d3319273e4c3a724f4972",
+  "pick": {
+    "id": "7ad2b5f4-fed4-4ef4-8e6a-344e3c30077e",
+    "team": "SLB vs ANA Under 6.5",
+    "displayTitle": null,
+    "sport": "NHL",
+    "betType": "total",
+    "line": "6.5",
+    "odds": "-130",
+    "createdAt": "2026-04-05T00:31:05.147Z",
+    "confidence": 4,
+    "result": "LOSS"
+  },
+  "verified_at": "2026-04-16T21:13:52.391Z"
+}
