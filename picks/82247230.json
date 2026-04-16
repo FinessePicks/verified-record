@@ -1,0 +1,16 @@
+{
+  "hash": "82247230f7b5220cb5c16a9171ee241c255ec5512689709304b29c5d1151cda9",
+  "pick": {
+    "id": "35527217-81c1-4e5d-a931-4bdeb030b3fd",
+    "team": "Dallas Stars",
+    "displayTitle": "Dallas Stars ML",
+    "sport": "NHL",
+    "betType": "moneyline",
+    "line": null,
+    "odds": "-142",
+    "createdAt": "2026-04-15T22:24:28.271Z",
+    "confidence": 7,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:14:34.658Z"
+}
