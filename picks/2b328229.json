@@ -1,0 +1,16 @@
+{
+  "hash": "2b3282290e02bf3b9654600ac86e620281eb9f9d42ca3bc5a22aa43174e16046",
+  "pick": {
+    "id": "128ee918-7f01-4b6b-9100-2964bf04b4fa",
+    "team": "UConn -6.5",
+    "displayTitle": null,
+    "sport": "NCAAB",
+    "betType": "spread",
+    "line": "-6.5",
+    "odds": "-110",
+    "createdAt": "2026-04-05T00:29:53.095Z",
+    "confidence": 6,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:13:48.766Z"
+}
