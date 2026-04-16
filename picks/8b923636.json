@@ -1,0 +1,16 @@
+{
+  "hash": "8b92363626d5380a09d85c19bce489988cc5b01cd23cd80fdccfe10e44e168c2",
+  "pick": {
+    "id": "9f6f92cf-1eab-4c38-b3ec-527f360b8dbb",
+    "team": "Chicago Bulls -6",
+    "displayTitle": "CHI Bulls -6",
+    "sport": "NBA",
+    "betType": "spread",
+    "line": "-6",
+    "odds": "-115",
+    "createdAt": "2026-04-08T04:57:51.749Z",
+    "confidence": 3,
+    "result": "LOSS"
+  },
+  "verified_at": "2026-04-16T21:13:59.991Z"
+}
