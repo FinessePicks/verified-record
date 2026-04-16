@@ -1,0 +1,16 @@
+{
+  "hash": "7341fc8a3b579f11bb2ad4d5bf5c6359657f0bae7131ccc6d7965eebe6e1edcb",
+  "pick": {
+    "id": "e6cf6e01-7a46-4090-9b77-915afeaa549f",
+    "team": "76ers -1.5",
+    "displayTitle": "76ers -1.5",
+    "sport": "NBA",
+    "betType": "spread",
+    "line": "-1.5",
+    "odds": "-110",
+    "createdAt": "2026-04-15T18:23:48.202Z",
+    "confidence": 5,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:14:33.716Z"
+}
