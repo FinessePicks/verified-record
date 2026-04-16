@@ -1,0 +1,16 @@
+{
+  "hash": "5e4773cf0a68163b1367197e40c3ac5d78aa73445aded557bc93ea392f1484df",
+  "pick": {
+    "id": "b5fa1c2f-13ce-446a-ae6e-cfbf3338622e",
+    "team": "Yankees vs Rays Under 7.5",
+    "displayTitle": "Yankees/Rays Under 7.5",
+    "sport": "MLB",
+    "betType": "total",
+    "line": "under 7.5",
+    "odds": "-115",
+    "createdAt": "2026-04-12T20:56:12.978Z",
+    "confidence": 6,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:14:26.097Z"
+}
