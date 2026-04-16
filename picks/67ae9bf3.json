@@ -1,0 +1,16 @@
+{
+  "hash": "67ae9bf3c9d47f202028ce570c41e9ad24fee46a328c215ddf296e54d174b1b1",
+  "pick": {
+    "id": "c6e17d1d-53b5-4cc9-8df8-ffd6f43c8eee",
+    "team": "Detroit Pistons -21.5",
+    "displayTitle": "DET Pistons -21.5",
+    "sport": "NBA",
+    "betType": "spread",
+    "line": "-21.5",
+    "odds": "-105",
+    "createdAt": "2026-04-08T23:00:28.237Z",
+    "confidence": 6,
+    "result": "LOSS"
+  },
+  "verified_at": "2026-04-16T21:14:07.472Z"
+}
