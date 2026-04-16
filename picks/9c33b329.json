@@ -1,0 +1,16 @@
+{
+  "hash": "9c33b3295064caa43332ac7664b4439ce72d9094e29decc2b25bc437ce5b7fd5",
+  "pick": {
+    "id": "85da46f8-fbcb-4d69-91f5-c7270b5810ee",
+    "team": "Flyers vs. Bruins Under 6.5",
+    "displayTitle": null,
+    "sport": "NHL",
+    "betType": "total",
+    "line": "under 6.5",
+    "odds": "-130",
+    "createdAt": "2026-04-05T16:35:26.261Z",
+    "confidence": 6,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:13:53.348Z"
+}
