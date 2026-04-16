@@ -1,0 +1,16 @@
+{
+  "hash": "e4fc1bd3b110624c3622c348a06e9df2cc377d92bf93162b3c3b2e5eabd0eb4d",
+  "pick": {
+    "id": "424eaa78-0a5f-46c4-aaa2-a6088ca3a211",
+    "team": "Reds vs. Rangers Over 7.5",
+    "displayTitle": null,
+    "sport": "MLB",
+    "betType": "total",
+    "line": "7.5",
+    "odds": "-110",
+    "createdAt": "2026-04-04T21:51:12.865Z",
+    "confidence": 7,
+    "result": "LOSS"
+  },
+  "verified_at": "2026-04-16T21:13:45.206Z"
+}
