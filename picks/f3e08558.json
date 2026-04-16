@@ -1,0 +1,16 @@
+{
+  "hash": "f3e08558c9bfb9eb16ac3f56b564635c8ef4a247ba4892b9743f94de1a9f7db0",
+  "pick": {
+    "id": "bece8e7f-4d22-4f63-9d0b-44322dff7ca8",
+    "team": "Denver Nuggets -23.5",
+    "displayTitle": "DEN Nuggets -23.5",
+    "sport": "NBA",
+    "betType": "spread",
+    "line": "-23.5",
+    "odds": "-110",
+    "createdAt": "2026-04-08T21:00:08.221Z",
+    "confidence": 6,
+    "result": "LOSS"
+  },
+  "verified_at": "2026-04-16T21:14:03.629Z"
+}
