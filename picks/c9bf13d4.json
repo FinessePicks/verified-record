@@ -1,0 +1,16 @@
+{
+  "hash": "c9bf13d4c34efbd05d55a8207bbf14eb3e0bcd8beeded75e669d2857631abfbf",
+  "pick": {
+    "id": "32fcd526-dfe0-4e16-a3d5-05658271cbc1",
+    "team": "Anaheim Ducks",
+    "displayTitle": null,
+    "sport": "NHL",
+    "betType": "moneyline",
+    "line": "ANA",
+    "odds": "-142",
+    "createdAt": "2026-04-05T00:31:03.420Z",
+    "confidence": 2,
+    "result": "LOSS"
+  },
+  "verified_at": "2026-04-16T21:13:50.562Z"
+}
