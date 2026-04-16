@@ -1,0 +1,16 @@
+{
+  "hash": "3766292812502bbdd555f3a9a96da5e3a68a31c6c33b8429b767fc9b05f69056",
+  "pick": {
+    "id": "73c7a04d-b459-4345-aa17-0fe7013ece24",
+    "team": "Marlins ML",
+    "displayTitle": "Marlins ML",
+    "sport": "MLB",
+    "betType": "moneyline",
+    "line": null,
+    "odds": "116",
+    "createdAt": "2026-04-09T15:39:58.829Z",
+    "confidence": 8,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:14:11.986Z"
+}
