@@ -1,0 +1,16 @@
+{
+  "hash": "a26bfd8facc28942f5d35f93672a84d33a80a30f50628ce5ad00a05e8598d131",
+  "pick": {
+    "id": "440b4ac1-b9c2-425d-8065-2ef79c2c0ce9",
+    "team": "Colorado Avalanche",
+    "displayTitle": "Avalanche ML",
+    "sport": "NHL",
+    "betType": "moneyline",
+    "line": null,
+    "odds": "-125",
+    "createdAt": "2026-04-09T19:00:57.303Z",
+    "confidence": 2,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:14:19.500Z"
+}
