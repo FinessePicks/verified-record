@@ -1,0 +1,16 @@
+{
+  "hash": "10332c9ab08d31bc6888434b7b74c63b25fc82c194b271179626343839b5f3b1",
+  "pick": {
+    "id": "1b7d62fc-4ae2-418f-87b2-f9c5f9c90522",
+    "team": "Montreal Canadiens ML",
+    "displayTitle": "MTL Canadiens ML",
+    "sport": "NHL",
+    "betType": "moneyline",
+    "line": null,
+    "odds": "-110",
+    "createdAt": "2026-04-09T18:05:13.424Z",
+    "confidence": 3,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:14:14.765Z"
+}
