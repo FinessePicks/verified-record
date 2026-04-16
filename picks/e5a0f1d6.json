@@ -1,0 +1,16 @@
+{
+  "hash": "e5a0f1d6c0eea31d8733dde65f853ee31ad171cabecc0b73784d6ea5c8140e10",
+  "pick": {
+    "id": "082dd74c-0560-4c96-b20d-f1a88a6b83d0",
+    "team": "Illinois vs UConn Under 139.5",
+    "displayTitle": null,
+    "sport": "NCAAB",
+    "betType": "total",
+    "line": "under 139.5",
+    "odds": "-110",
+    "createdAt": "2026-04-04T21:51:09.688Z",
+    "confidence": 7,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:13:44.120Z"
+}
