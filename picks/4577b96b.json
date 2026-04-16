@@ -1,0 +1,16 @@
+{
+  "hash": "4577b96b6cd160aad5b94a75cb66e2a415fb01afc94e46f5522e933d15f1f11d",
+  "pick": {
+    "id": "31b948cb-1ae8-4513-9b62-b9f4e5ecc86c",
+    "team": "Charlotte Hornets -5",
+    "displayTitle": "Charlotte Hornets -5",
+    "sport": "NBA",
+    "betType": "spread",
+    "line": "ATS",
+    "odds": "-120",
+    "createdAt": "2026-04-12T20:57:01.487Z",
+    "confidence": 7,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:14:27.050Z"
+}
