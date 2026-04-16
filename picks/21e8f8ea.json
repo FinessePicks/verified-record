@@ -1,0 +1,16 @@
+{
+  "hash": "21e8f8ea5810cdf8eab3847feaaea8aaddfcb7e3e501548254aff318609d30a4",
+  "pick": {
+    "id": "40c00c47-c8c8-46dc-879d-3d57b9b65558",
+    "team": "Wild ML",
+    "displayTitle": "Wild ML",
+    "sport": "NHL",
+    "betType": "moneyline",
+    "line": "+104",
+    "odds": "+104",
+    "createdAt": "2026-04-09T18:05:21.615Z",
+    "confidence": 3,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:14:15.647Z"
+}
