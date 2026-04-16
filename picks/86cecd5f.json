@@ -1,0 +1,16 @@
+{
+  "hash": "86cecd5fc952c5dfaebb1b7d25e9903f2d066fc2eea8fe6596972c114dd3856a",
+  "pick": {
+    "id": "30388685-e7a4-48a6-80b8-8f8d0bcd5ab9",
+    "team": "Brewers vs Red Sox Under 7.5",
+    "displayTitle": "Brewers/Red Sox Under 7.5",
+    "sport": "MLB",
+    "betType": "total",
+    "line": "under 7.5",
+    "odds": "-110",
+    "createdAt": "2026-04-08T22:00:17.116Z",
+    "confidence": 3,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:14:06.520Z"
+}
