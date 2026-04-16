@@ -1,0 +1,16 @@
+{
+  "hash": "760f287f5ac66eead5d32aa853286e600528ebc5427cb0e0cdcb9c29f98d38f9",
+  "pick": {
+    "id": "3aaa89bc-78e9-4208-9264-0458e04508dc",
+    "team": "Royals vs White Sox Over 9",
+    "displayTitle": "KC/CWS Over 9",
+    "sport": "MLB",
+    "betType": "total",
+    "line": "over 9",
+    "odds": "-110",
+    "createdAt": "2026-04-09T19:00:17.349Z",
+    "confidence": 4,
+    "result": "LOSS"
+  },
+  "verified_at": "2026-04-16T21:14:17.705Z"
+}
