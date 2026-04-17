@@ -1,0 +1,16 @@
+{
+  "hash": "0aa77ed9f90b4c1d9533c2b279fac2aabd492a8dba967a12d3c78487114fa834",
+  "pick": {
+    "id": "98851eb1-a4ea-4537-a3e6-e058fde13783",
+    "team": "Bobby McMann Over 0.5 pts",
+    "displayTitle": "McMann Over 0.5 pts",
+    "sport": "NHL",
+    "betType": "prop",
+    "line": "0.5",
+    "odds": "+125",
+    "createdAt": "2026-04-17T00:47:27.121Z",
+    "confidence": 9,
+    "result": "PENDING"
+  },
+  "verified_at": "2026-04-17T02:02:56.546Z"
+}
