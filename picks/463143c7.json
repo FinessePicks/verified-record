@@ -1,0 +1,16 @@
+{
+  "hash": "463143c77aa962373ea379d7ccbfff300a5f5873ae1403afa665d1c4e5efde8e",
+  "pick": {
+    "id": "b4065099-5e4c-410c-9b15-43e5e4313981",
+    "team": "Charlotte Hornets ML",
+    "displayTitle": "Charlotte Hornets ML",
+    "sport": "NBA",
+    "betType": "moneyline",
+    "line": "-170",
+    "odds": "-170",
+    "createdAt": "2026-04-17T02:26:48.556Z",
+    "confidence": 6,
+    "result": "PENDING"
+  },
+  "verified_at": "2026-04-17T02:26:48.975Z"
+}
